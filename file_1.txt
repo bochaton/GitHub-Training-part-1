@@ -4,4 +4,7 @@ This is line 2
 This is line 2.5 (new feature)
 I added this line locally 
 This is line 3
+Inserting 3 lines of text	
+Already did 1
+Here is the last one
 
